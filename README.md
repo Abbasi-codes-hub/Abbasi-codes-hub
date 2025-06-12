@@ -104,7 +104,7 @@ As a **frontend development specialist**, I create **mobile-first web applicatio
 
 <div align="center">
 
-📧 Email: [lushglow.official.beauty@gmail.com] lushglow.official.beauty@gmail
+📧 Email: [mailto:lushglow.official.beauty@gmail.com]
 
 🌐 Portfolio: [Live Site](https://abbasi-codes-hub.github.io/Abbasi-codes-hub-porfolio-webpage-landscapes/)
 
