@@ -1,123 +1,80 @@
-<!-- SEO Meta Tags (for GitHub profile visibility) -->
-<meta name="description" content="Professional Frontend Developer specializing in responsive design, 3D websites, and modern JavaScript frameworks. Let's build something amazing together!">
-<meta name="keywords" content="frontend developer, responsive design, React expert, Vue.js specialist, Tailwind CSS, 3D websites, JavaScript developer, web performance">
+<!-- SEO Meta Tags -->
+<meta name="description" content="Senior Frontend Developer | React & Vue Specialist | Web Performance & 3D Web Expert | Building SEO-optimized, immersive web experiences">
+<meta name="keywords" content="senior frontend developer, react expert, vue.js specialist, three.js developer, webgl, pwa, seo optimization, web performance, javascript animation, responsive web design">
 <meta name="author" content="Your Name">
-
-# 👋 Hello World! I'm [Your Name]
-
-<h2 align="center">🎯 Passionate Frontend Developer | UI/UX Enthusiast | Performance Optimizer</h2>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Clean+Code+Advocate;Pixel-Perfect+Designs;3D+Web+Specialist;SEO-Optimized+Solutions" alt="Typing SVG" />
-</p>
-
----
-
-## 🚀 About Me
-
-I'm a **Frontend Developer** with a passion for creating immersive, high-performance web experiences. With expertise in modern JavaScript frameworks and a keen eye for design, I bridge the gap between stunning visuals and technical excellence. My work focuses on **responsive architectures**, **60fps animations**, and **SEO-optimized** solutions that drive user engagement and conversion.
-
-Specializing in **3D web experiences** using Three.js and WebGL, I bring products to life with interactive elements that captivate audiences. Whether it's a blazing-fast e-commerce site or a cutting-edge portfolio, I approach every project with **clean code principles** and **mobile-first methodologies**.
-
----
-
-## 💼 Services
+<meta property="og:title" content="Professional Frontend Developer | Your Name">
+<meta property="og:description" content="Crafting high-performance, SEO-optimized web applications with cutting-edge technologies">
 
 <div align="center">
 
-| 🔍 Category        | 🛠️ Offerings                                                                 |
-|-------------------|-----------------------------------------------------------------------------|
-| **Web Development**  | Responsive SPAs, PWAs, 3D Websites, Landing Pages, E-commerce Solutions     |
-| **UI/UX**           | Pixel-Perfect Implementation, Micro-Interactions, Accessibility Compliance  |
-| **Optimization**     | Lighthouse 90+ Scores, Bundle Size Reduction, SEO Best Practices            |
-| **Consulting**       | Tech Stack Selection, Performance Audits, Legacy Code Modernization        |
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm [Your Name]
+
+<h2>🚀 Senior Frontend Engineer | 3D Web Specialist | Performance Optimizer</h2>
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fyourusername&label=PROFILE%20VIEWS&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fyourusername)
+[![GitHub Followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/yourusername)
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🔍 About Me
 
-### 🌐 Languages
-<div align="center">
-  
+I architect **high-performance web applications** with a focus on **SEO optimization**, **60fps animations**, and **immersive 3D experiences**. With over [X] years in frontend development, I specialize in bridging cutting-edge technologies with business objectives to deliver measurable results.
+
+**Core competencies:**
+- 🏗️ **Framework Expertise**: Production-grade React & Vue applications
+- ✨ **3D Web Development**: Three.js, WebGL, and WebXR implementations
+- ⚡ **Performance Optimization**: Consistently achieve Lighthouse scores 95+
+- 🔎 **Technical SEO**: SSR, ISR, and semantic markup strategies
+- 📱 **PWA Development**: Offline-capable, installable web experiences
+
+---
+
+## 🛠️ Technical Arsenal
+
+### 🌐 Core Languages
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 </div>
 
-### 📦 Frameworks & Libraries
-<div align="center">
-  
+### 🚀 Frameworks & Libraries
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
 
 </div>
 
----
+### 🛠️ Tools & Platforms
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
 
-## 📊 Skills Proficiency
-
-<div align="center">
-
-<!-- Circular Progress Bars using SVG -->
-| Skill          | Progress |
-|----------------|----------|
-| **HTML5**      | <svg width="80" height="80" viewBox="0 0 36 36"><path d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831" fill="none" stroke="#eee" stroke-width="3"/><path d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831" fill="none" stroke="#E34F26" stroke-width="3" stroke-dasharray="95, 100"/><text x="18" y="22" fill="#fff" text-anchor="middle" font-size="8">95%</text></svg> |
-| **CSS3**       | <svg width="80" height="80" viewBox="0 0 36 36"><path d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831" fill="none" stroke="#eee" stroke-width="3"/><path d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831" fill="none" stroke="#1572B6" stroke-width="3" stroke-dasharray="90, 100"/><text x="18" y="22" fill="#fff" text-anchor="middle" font-size="8">90%</text></svg> |
-| **JavaScript** | <svg width="80" height="80" viewBox="0 0 36 36"><path d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831" fill="none" stroke="#eee" stroke-width="3"/><path d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831" fill="none" stroke="#F7DF1E" stroke-width="3" stroke-dasharray="85, 100"/><text x="18" y="22" fill="#000" text-anchor="middle" font-size="8">85%</text></svg> |
-| **React**      | <svg width="80" height="80" viewBox="0 0 36 36"><path d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831" fill="none" stroke="#eee" stroke-width="3"/><path d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831" fill="none" stroke="#61DAFB" stroke-width="3" stroke-dasharray="80, 100"/><text x="18" y="22" fill="#000" text-anchor="middle" font-size="8">80%</text></svg> |
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
 ---
 
-## 🔍 SEO-Optimized Expertise
+## 📊 Skill Mastery
 
-As a **frontend development specialist**, I create **mobile-first web applications** with **core web vitals optimization** that rank higher in search results. My **JavaScript performance tuning** ensures buttery-smooth interactions while maintaining **SEO-friendly architectures**. With expertise in **progressive web apps (PWAs)** and **static site generation**, I build solutions that excel in both user experience and search visibility. Need a **custom 3D product configurator** or **interactive data visualization**? Let's discuss how we can implement **cutting-edge browser technologies** while maintaining accessibility and search engine crawlability.
+<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 20px; margin: 30px 0;">
 
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
-![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&label=Profile+Views&color=0e75b6&style=flat)
-
-</div>
-
----
-
-## 🌟 Featured Projects
-
-<div align="center">
-
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=radical)](https://github.com/yourusername/project1)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=radical)](https://github.com/yourusername/project2)
-
-</div>
-
----
-
-## 📫 Let's Connect!
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-
-</div>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100%"/>
-</p>
+```mermaid
+pie
+    title Frontend Skills
+    "React Ecosystem" : 35
+    "JavaScript/TypeScript" : 25
+    "3D Web (Three.js)" : 20
+    "Performance Optimization" : 15
+    "CSS/Sass/Tailwind" : 5
