@@ -104,21 +104,13 @@ As a **frontend development specialist**, I create **mobile-first web applicatio
 
 <div align="center">
 
-  <a href="mailto:lushglow.official.beauty@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Email-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
-  </a>
+📧 Email: [lushglow.official.beauty@gmail.com](mailto:lushglow.official.beauty@gmail.com)
 
-  <a href="https://abbasi-codes-hub.github.io/Abbasi-codes-hub-porfolio-webpage-landscapes/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Portfolio-Live%20Site-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit Portfolio" />
-  </a>
+🌐 Portfolio: [Live Site](https://abbasi-codes-hub.github.io/Abbasi-codes-hub-porfolio-webpage-landscapes/)
 
-  <a href="#" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-Coming%20Soon-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+🔗 LinkedIn: Coming Soon
 
-  <a href="#" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Twitter-Coming%20Soon-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
+🐦 Twitter: Coming Soon
 
 </div>
 
