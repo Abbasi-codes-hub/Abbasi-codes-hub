@@ -86,13 +86,14 @@ As a **frontend development specialist**, I create **mobile-first web applicatio
 
 <div align="center">
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&count_private=true)
+## 📈 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Samar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abbasi-codes-hub&show_icons=true&theme=radical&hide=prs)
 
-![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&label=Profile+Views&color=0e75b6&style=flat)
+## 🏆 GitHub Trophies
 
-</div>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Abbasi-codes-hub&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ---
 
@@ -100,9 +101,9 @@ As a **frontend development specialist**, I create **mobile-first web applicatio
 
 <div align="center">
 
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=radical)]([https://github.com/yourusername/project1](https://github.com/Abbasi-codes-hub/Typing-speed-test-new-logicic.git))
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=radical)]([https://github.com/yourusername/project2](https://abbasi-codes-hub.github.io/product-landing-page-/))
-[![Project 3](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=radical)]([[https://github.com/yourusername/project2](https://abbasi-codes-hub.github.io/product-landing-page-/)](https://abbasi-codes-hub.github.io/modern-calculator/))
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=radical)]((https://github.com/Abbasi-codes-hub/Typing-speed-test-new-logicic.git))
+[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=radical)]((https://abbasi-codes-hub.github.io/product-landing-page-/))
+[![Project 3](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=radical)]((https://abbasi-codes-hub.github.io/modern-calculator/))
 
 </div>
 
