@@ -104,9 +104,7 @@ As a **frontend development specialist**, I create **mobile-first web applicatio
 
 <div align="center">
 
-<a href="mailto:lushglow.official.beauty@gmail.com?subject=Contact%20from%20GitHub">
-  <img src="https://img.shields.io/badge/Email-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/>
-</a>
+📧 Email: [lushglow.official.beauty@gmail.com] its not connected you can manually send mail in my way
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Site-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://abbasi-codes-hub.github.io/Abbasi-codes-hub-porfolio-webpage-landscapes/)
 
