@@ -3,7 +3,7 @@
 <meta name="keywords" content="frontend developer, responsive design, React expert, Vue.js specialist, Tailwind CSS, 3D websites, JavaScript developer, web performance">
 <meta name="author" content="Your Name">
 
-# 👋 Hello World! I'm [Your Name]
+# 👋 Hello World! I'm Samar-Abbasi
 
 <h2 align="center">🎯 Passionate Frontend Developer | UI/UX Enthusiast | Performance Optimizer</h2>
 
@@ -100,8 +100,9 @@ As a **frontend development specialist**, I create **mobile-first web applicatio
 
 <div align="center">
 
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=radical)](https://github.com/yourusername/project1)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=radical)](https://github.com/yourusername/project2)
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=radical)]([https://github.com/yourusername/project1](https://github.com/Abbasi-codes-hub/Typing-speed-test-new-logicic.git))
+[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=radical)]([https://github.com/yourusername/project2](https://abbasi-codes-hub.github.io/product-landing-page-/))
+[![Project 3](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=radical)]([[https://github.com/yourusername/project2](https://abbasi-codes-hub.github.io/product-landing-page-/)](https://abbasi-codes-hub.github.io/modern-calculator/))
 
 </div>
 
@@ -111,10 +112,10 @@ As a **frontend development specialist**, I create **mobile-first web applicatio
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lushglow.official.beauty@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://abbasi-codes-hub.github.io/Abbasi-codes-hub-porfolio-webpage-landscapes/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
 
 </div>
 
