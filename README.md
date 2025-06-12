@@ -1,7 +1,7 @@
 <!-- SEO Meta Tags (for GitHub profile visibility) -->
 <meta name="description" content="Professional Frontend Developer specializing in responsive design, 3D websites, and modern JavaScript frameworks. Let's build something amazing together!">
 <meta name="keywords" content="frontend developer, responsive design, React expert, Vue.js specialist, Tailwind CSS, 3D websites, JavaScript developer, web performance">
-<meta name="author" content="Your Name">
+<meta name="author" content="Abbasi-codes-hub">
 
 # 👋 Hello World! I'm Samar-Abbasi
 
