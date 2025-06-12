@@ -105,7 +105,8 @@ As a **frontend development specialist**, I create **mobile-first web applicatio
 <div align="center">
 
 📧 Email: lushglow.official.beauty@gmail.com
-<i class="fa fa-phone"></i> +923202677314
+<br>
++923202677314
 
 🌐 Portfolio: [Live Site](https://abbasi-codes-hub.github.io/Abbasi-codes-hub-porfolio-webpage-landscapes/)
 
