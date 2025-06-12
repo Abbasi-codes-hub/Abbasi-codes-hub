@@ -1,108 +1,123 @@
-<!-- 
-  ======================================
-  FUTURISTIC FRONTEND DEVELOPER PROFILE
-  ======================================
-  Features:
-  - 3D CSS-animated header
-  - Interactive skill matrix
-  - Dynamic GitHub visualization
-  - Glowing tech stack badges
-  - Animated snake game footer
--->
+<!-- SEO Meta Tags (for GitHub profile visibility) -->
+<meta name="description" content="Professional Frontend Developer specializing in responsive design, 3D websites, and modern JavaScript frameworks. Let's build something amazing together!">
+<meta name="keywords" content="frontend developer, responsive design, React expert, Vue.js specialist, Tailwind CSS, 3D websites, JavaScript developer, web performance">
+<meta name="author" content="Your Name">
+
+# 👋 Hello World! I'm [Your Name]
+
+<h2 align="center">🎯 Passionate Frontend Developer | UI/UX Enthusiast | Performance Optimizer</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Clean+Code+Advocate;Pixel-Perfect+Designs;3D+Web+Specialist;SEO-Optimized+Solutions" alt="Typing SVG" />
+</p>
+
+---
+
+## 🚀 About Me
+
+I'm a **Frontend Developer** with a passion for creating immersive, high-performance web experiences. With expertise in modern JavaScript frameworks and a keen eye for design, I bridge the gap between stunning visuals and technical excellence. My work focuses on **responsive architectures**, **60fps animations**, and **SEO-optimized** solutions that drive user engagement and conversion.
+
+Specializing in **3D web experiences** using Three.js and WebGL, I bring products to life with interactive elements that captivate audiences. Whether it's a blazing-fast e-commerce site or a cutting-edge portfolio, I approach every project with **clean code principles** and **mobile-first methodologies**.
+
+---
+
+## 💼 Services
 
 <div align="center">
 
-<!-- 3D Animated Header -->
-<h1 style="
-  font-size: 3rem;
-  margin-bottom: 0;
-  background: linear-gradient(90deg, #12c2e9, #c471ed, #f64f59);
-  -webkit-background-clip: text;
-  background-clip: text;
-  color: transparent;
-  text-shadow: 0 0 10px rgba(255,255,255,0.3);
-  animation: gradient 8s ease infinite;
-  background-size: 400% 400%;
-">⎯⎯∈ <span style="font-weight: 800">YOUR NAME</span> ∈⎯⎯</h1>
-
-<h3 style="
-  margin-top: 0.5rem;
-  color: #a1a1aa;
-  font-weight: 300;
-">Senior Frontend Alchemist • 3D Web Artisan • Performance Shaman</h3>
-
-<!-- Glowing Status Badges -->
-<div style="
-  display: flex;
-  gap: 1rem;
-  justify-content: center;
-  margin: 2rem 0;
-  flex-wrap: wrap;
-">
-  <div style="
-    background: rgba(16, 185, 129, 0.1);
-    padding: 0.5rem 1rem;
-    border-radius: 9999px;
-    border: 1px solid rgba(16, 185, 129, 0.5);
-    box-shadow: 0 0 10px rgba(16, 185, 129, 0.3);
-    display: flex;
-    align-items: center;
-    gap: 0.5rem;
-  ">
-    <div style="
-      width: 0.75rem;
-      height: 0.75rem;
-      background: #10b981;
-      border-radius: 9999px;
-      animation: pulse 2s infinite;
-    "></div>
-    <span>Available for contracts</span>
-  </div>
-
-  <div style="
-    background: rgba(99, 102, 241, 0.1);
-    padding: 0.5rem 1rem;
-    border-radius: 9999px;
-    border: 1px solid rgba(99, 102, 241, 0.5);
-    box-shadow: 0 0 10px rgba(99, 102, 241, 0.3);
-    display: flex;
-    align-items: center;
-    gap: 0.5rem;
-  ">
-    <div style="
-      width: 0.75rem;
-      height: 0.75rem;
-      background: #6366f1;
-      border-radius: 9999px;
-    "></div>
-    <span>Open to collaborations</span>
-  </div>
-</div>
+| 🔍 Category        | 🛠️ Offerings                                                                 |
+|-------------------|-----------------------------------------------------------------------------|
+| **Web Development**  | Responsive SPAs, PWAs, 3D Websites, Landing Pages, E-commerce Solutions     |
+| **UI/UX**           | Pixel-Perfect Implementation, Micro-Interactions, Accessibility Compliance  |
+| **Optimization**     | Lighthouse 90+ Scores, Bundle Size Reduction, SEO Best Practices            |
+| **Consulting**       | Tech Stack Selection, Performance Audits, Legacy Code Modernization        |
 
 </div>
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4a1.svg" width="28" height="28" alt="bulb"> About My Craft
+## 🛠️ Tech Stack
 
-I engineer **high-performance digital experiences** that blend <span style="color: #f472b6">aesthetic elegance</span> with <span style="color: #60a5fa">technical precision</span>. Specializing in:
+### 🌐 Languages
+<div align="center">
+  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-- **Immersive 3D Web** (Three.js, WebGL, WebXR)
-- **Framework Architecture** (React, Vue, Svelte)
-- **Performance Alchemy** (90+ Lighthouse scores)
-- **Motion Engineering** (GSAP, Framer Motion)
-- **PWA Wizardry** (Offline-first strategies)
+</div>
 
-```mermaid
-graph LR
-  A[Ideation] --> B[Prototyping]
-  B --> C[Development]
-  C --> D[Optimization]
-  D --> E[Deployment]
-  E --> F[Monitoring]
-  style A fill:#fef08a,stroke:#ca8a04
-  style B fill:#bbf7d0,stroke:#16a34a
-  style C fill:#bfdbfe,stroke:#2563eb
-  style D fill:#fecaca,stroke:#dc2626
-  style E fill:#ddd6fe,stroke:#7c3aed
-  style F fill:#fbcfe8,stroke:#db2777
+### 📦 Frameworks & Libraries
+<div align="center">
+  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
+
+</div>
+
+---
+
+## 📊 Skills Proficiency
+
+<div align="center">
+
+<!-- Circular Progress Bars using SVG -->
+| Skill          | Progress |
+|----------------|----------|
+| **HTML5**      | <svg width="80" height="80" viewBox="0 0 36 36"><path d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831" fill="none" stroke="#eee" stroke-width="3"/><path d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831" fill="none" stroke="#E34F26" stroke-width="3" stroke-dasharray="95, 100"/><text x="18" y="22" fill="#fff" text-anchor="middle" font-size="8">95%</text></svg> |
+| **CSS3**       | <svg width="80" height="80" viewBox="0 0 36 36"><path d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831" fill="none" stroke="#eee" stroke-width="3"/><path d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831" fill="none" stroke="#1572B6" stroke-width="3" stroke-dasharray="90, 100"/><text x="18" y="22" fill="#fff" text-anchor="middle" font-size="8">90%</text></svg> |
+| **JavaScript** | <svg width="80" height="80" viewBox="0 0 36 36"><path d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831" fill="none" stroke="#eee" stroke-width="3"/><path d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831" fill="none" stroke="#F7DF1E" stroke-width="3" stroke-dasharray="85, 100"/><text x="18" y="22" fill="#000" text-anchor="middle" font-size="8">85%</text></svg> |
+| **React**      | <svg width="80" height="80" viewBox="0 0 36 36"><path d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831" fill="none" stroke="#eee" stroke-width="3"/><path d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831" fill="none" stroke="#61DAFB" stroke-width="3" stroke-dasharray="80, 100"/><text x="18" y="22" fill="#000" text-anchor="middle" font-size="8">80%</text></svg> |
+
+</div>
+
+---
+
+## 🔍 SEO-Optimized Expertise
+
+As a **frontend development specialist**, I create **mobile-first web applications** with **core web vitals optimization** that rank higher in search results. My **JavaScript performance tuning** ensures buttery-smooth interactions while maintaining **SEO-friendly architectures**. With expertise in **progressive web apps (PWAs)** and **static site generation**, I build solutions that excel in both user experience and search visibility. Need a **custom 3D product configurator** or **interactive data visualization**? Let's discuss how we can implement **cutting-edge browser technologies** while maintaining accessibility and search engine crawlability.
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&label=Profile+Views&color=0e75b6&style=flat)
+
+</div>
+
+---
+
+## 🌟 Featured Projects
+
+<div align="center">
+
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=radical)](https://github.com/yourusername/project1)
+[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=radical)](https://github.com/yourusername/project2)
+
+</div>
+
+---
+
+## 📫 Let's Connect!
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100%"/>
+</p>
