@@ -15,23 +15,23 @@
 
 ## 🚀 About Me
 
-I'm a Frontend Developer with a passion for building high-performance, immersive web experiences using the MERN Stack (MongoDB, Express.js, React, Node.js). With a sharp eye for UI/UX and strong command over modern JavaScript frameworks like React.js, Next.js, and TypeScript, I bridge the gap between stunning visual design and robust engineering.
+I'm a Frontend Developer with a passion for building high-performance, immersive web experiences using the **MERN Stack** **(MongoDB, Express.js, React, Node.js)**. With a sharp eye for **UI/UX** and strong command over **modern JavaScript** frameworks like **React.js**, **Next.js**, and **TypeScript**, I bridge the gap between stunning visual design and robust engineering.
 
-My expertise spans:
+**My expertise spans:**
 
 Responsive architectures
 
-60fps smooth animations with GSAP and Framer Motion
+60fps smooth animations with **GSAP** and **Framer Motion**
 
 SEO-optimized, Core Web Vitals-compliant solutions
 
-Progressive Web Apps (PWAs)
+Progressive Web Apps **(PWAs)**
 
-REST APIs & GraphQL integrations
+**REST APIs** & **GraphQL** integrations
 
-I specialize in 3D web experiences using Three.js, WebGL, and Shader programming, bringing interfaces to life with interactive elements, scroll-triggered effects, and real-time animations.
+I specialize in 3D web experiences using **Three.j**s, **WebGL**, and **Shader programming**, bringing interfaces to life with **interactive elements**, **scroll-triggered effects**, and **real-time animations**.
 
-Whether it's a blazing-fast eCommerce platform using React + Redux Toolkit, or a Next.js portfolio with server-side rendering (SSR) and dynamic routing, I code with:
+Whether it's a blazing-fast **eCommerce platform** using **React + Redux Toolkit**, or a **Next.js** portfolio with server-side rendering **(SSR)** and **dynamic routing**, I code with:
 
 Clean code principles
 
@@ -39,7 +39,7 @@ Component-based architecture
 
 Mobile-first, pixel-perfect methodologies
 
-I also work with:
+**I also work with**:
 
 Tailwind CSS, Sass, Bootstrap
 
