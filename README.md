@@ -15,9 +15,41 @@
 
 ## 🚀 About Me
 
-I'm a **Frontend Developer** with a passion for creating immersive, high-performance web experiences. With expertise in modern JavaScript frameworks and a keen eye for design, I bridge the gap between stunning visuals and technical excellence. My work focuses on **responsive architectures**, **60fps animations**, and **SEO-optimized** solutions that drive user engagement and conversion.
+I'm a Frontend Developer with a passion for building high-performance, immersive web experiences using the MERN Stack (MongoDB, Express.js, React, Node.js). With a sharp eye for UI/UX and strong command over modern JavaScript frameworks like React.js, Next.js, and TypeScript, I bridge the gap between stunning visual design and robust engineering.
 
-Specializing in **3D web experiences** using Three.js and WebGL, I bring products to life with interactive elements that captivate audiences. Whether it's a blazing-fast e-commerce site or a cutting-edge portfolio, I approach every project with **clean code principles** and **mobile-first methodologies**.
+My expertise spans:
+
+Responsive architectures
+
+60fps smooth animations with GSAP and Framer Motion
+
+SEO-optimized, Core Web Vitals-compliant solutions
+
+Progressive Web Apps (PWAs)
+
+REST APIs & GraphQL integrations
+
+I specialize in 3D web experiences using Three.js, WebGL, and Shader programming, bringing interfaces to life with interactive elements, scroll-triggered effects, and real-time animations.
+
+Whether it's a blazing-fast eCommerce platform using React + Redux Toolkit, or a Next.js portfolio with server-side rendering (SSR) and dynamic routing, I code with:
+
+Clean code principles
+
+Component-based architecture
+
+Mobile-first, pixel-perfect methodologies
+
+I also work with:
+
+Tailwind CSS, Sass, Bootstrap
+
+Headless CMS (like Sanity, Strapi)
+
+Authentication via Firebase/Auth0
+
+Git & CI/CD pipelines via GitHub Actions & Vercel
+
+From low-code MVPs to enterprise-grade applications, I bring the best of frontend + backend synergy to every project.
 
 ---
 
