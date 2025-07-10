@@ -3,7 +3,9 @@
 <meta name="keywords" content="frontend developer, responsive design, React expert, Vue.js specialist, Tailwind CSS, 3D websites, JavaScript developer, web performance">
 <meta name="author" content="Abbasi-codes-hub">
 
-# 👋 Hello World! I'm Samar-Abbasi
+### 👋 Hi, I'm Abbas – a Frontend Developer (React | MERN)
+I create modern, responsive, and high-performance websites using the MERN stack. Passionate about clean code, UI/UX, SEO, and 3D web (Three.js).
+
 
 <h2 align="center">🎯 Passionate Frontend Developer | UI/UX Enthusiast | Performance Optimizer</h2>
 
