@@ -10,37 +10,8 @@ I create modern, responsive, and high-performance websites using the MERN stack.
 <h2 align="center">🎯 Passionate Frontend Developer | UI/UX Enthusiast | Performance Optimizer</h2>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&center=true&vCenter=true
-&color1=22D3EE
-&color2=84CC16
-&color3=F43F5E
-&color4=EAB308
-&color5=8B5CF6
-&color6=EC4899
-&color7=10B981
-&color8=F97316
-&color9=0EA5E9
-&color10=14B8A6
-&lines=Clean+Code+Advocate;
-Pixel-Perfect+Designs;
-3D+Web+Specialist;
-SEO-Optimized+Solutions;
-Mobile-First+Development;
-UI%2FUX+Problem+Solver;
-React.js+Expert;
-Next.js+Developer;
-Tailwind+CSS+Styling;
-Component-Based+Architecture;
-Responsive+Layouts;
-Performance+Optimization;
-Core+Web+Vitals+Fixer;
-Cross-Browser+Compatibility;
-JavaScript+Animations+with+GSAP;
-Framer+Motion+UI+Flow;
-State+Management+with+Redux;
-Design+to+Code+Conversion;
-WebGL+and+Three.js+Magic;
-Fast+Loading+Pages" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Clean+Code+Advocate;Pixel-Perfect+Designs;3D+Web+Specialist;SEO-Optimized+Solutions;Mobile-First+Development;UI%2FUX+Problem+Solver;React.js+Expert;Next.js+Developer;Tailwind+CSS+Styling;Component-Based+Architecture;Responsive+Layouts;Performance+Optimization;Core+Web+Vitals+Fixer;Cross-Browser+Compatibility;JavaScript+Animations+with+GSAP;Framer+Motion+UI+Flow;State+Management+with+Redux;Design+to+Code+Conversion;WebGL+and+Three.js+Magic;Fast+Loading+Pages" alt="Typing SVG" />
+
 
 </p>
 
